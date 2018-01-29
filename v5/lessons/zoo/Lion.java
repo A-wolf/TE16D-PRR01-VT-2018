@@ -7,7 +7,7 @@ public class Lion extends Animal {
 	}
 
 	public void makeSound() {
-		System.out.println("Jag r ett lejon");
+		System.out.println("Jag är ett lejon");
 	}
 
 }
