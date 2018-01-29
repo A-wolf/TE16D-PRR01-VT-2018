@@ -4,4 +4,4 @@
 - Vi ska även kolla på hur man kan läsa in en textfil med hjälp av en *Scanner*.
 
 ### Uppgifter
-Ni kommer även att få en kattisuppgift som ska vara klar till Söndag vecka 5.
+Ni kommer också att få en kattisuppgift som ska vara klar till Söndag vecka 5.
