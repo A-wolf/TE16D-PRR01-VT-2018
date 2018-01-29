@@ -1,9 +1,10 @@
 # Skolklass
 
-
 Uppgiften går ut på att ni ska skapa en egen java-class som ska ha namnet *Skolklass* och vars huvudsakliga syfte är att innehålla 
 funktionalitet för att lagra namn på elever i en skolklass. <br>
-*Förslagsvis med hjälp av en ArrayList, som vi nyss gått igenom.* 
+*Förslagsvis med hjälp av en ArrayList, som vi nyss gått igenom.*
+
+#### Deadline för inlämning är Söndag vecka 4!
 
 ## Betygskrav
 ### E
