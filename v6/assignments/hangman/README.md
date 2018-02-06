@@ -24,16 +24,16 @@ Uppgiften går ut på att ni i par ska planera och skapa ett hänga gubbe-spel i
 - Ni måste på något sätt använda er av objektorientering och skapa minst en klass som går att instansiera och har egen funktionallitet.
 
 ## Grupperingar
-Medlem 1          | Medlem 2
-------------------|------------------
+Medlem 1          | Medlem 2 | Sebastian
+------------------|------------------|---------------
 Rikard	Nordahl	  | Oscar Kullberg
 Jakob	Lundqvist		| Levi Sunesson
 Erik	Göransson	  | Hampus André
 Alex	Boar		    | Jakob Nilsson
-Simon	Järdnäs 	  | Elise Melbin
+Simon	Järdnäs 	  | Elise Mellbin
 Emre	Cömlek		  | Oscar Fogelström
 Lukas	Ahlström	  | Joar Lagerstedt
-Lucas	Alfredsson	| Daniel Jönsson
+Lucas	Alfredsson	| Daniel Jönsson | Sebastian Arvidsson
 Loke	Eggert		  | Sven Bergius
 Pontus	Fransson	| William Möller
 Viktor	Johansson	| Michael Gabrielsson
