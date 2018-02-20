@@ -33,14 +33,14 @@ Alex	Boar		    | Jakob Nilsson
 Simon	Järdnäs 	  | Elise Mellbin
 Emre	Cömlek		  | Oscar Fogelström
 Lukas	Ahlström	  | Joar Lagerstedt
-Lucas	Alfredsson	| Daniel Jönsson | Sebastian Arvidsson
+Lucas	Alfredsson	| Oliver Lundin | Sebastian Arvidsson
 Loke	Eggert		  | Sven Bergius
 Pontus	Fransson	| William Möller
 Viktor	Johansson	| Michael Gabrielsson
 Andy	Ung	        | Jacob Klarén
 Erik	Vansvik		  | Erik Wirenhed
 Emanuel	Kulich	  | Gustav Sverlinger
-Anton	Limberg		  | Oliver Lundin
+Anton	Limberg		  | Daniel Jönsson
 
 ## Betygskrav
 E	|	C	|	A	
