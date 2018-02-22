@@ -1,1 +1,1 @@
-## Solution to the assignment
+## Ovan finner ni min lösning på [*whatdoesthefoxsay*](https://open.kattis.com/problems/whatdoesthefoxsay "whatdoesthefoxsay").

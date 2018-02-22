@@ -7,7 +7,7 @@ Uppgiften går ut på att ni först får in en rad med massa ord som är separer
 Sedan får ni ett okänt antal rader med information om vilka ord som ska plockas bort. <br>
 Sist får ni en rad som ska avsluta inläsning och skriva ut alla ord som är kvar från originalraden. 
 
-#### Deadline för inlämning är Söndag vecka 4!
+#### Deadline för inlämning är Söndag vecka 4 på Schoolsoft!
 
 - **Tips**:
 	-  Använd en ArrayList för att lagra alla ord.
