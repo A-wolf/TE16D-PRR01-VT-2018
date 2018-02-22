@@ -8,6 +8,7 @@ Sedan får ni ett okänt antal rader med information om vilka ord som ska plocka
 Sist får ni en rad som ska avsluta inläsning och skriva ut alla ord som är kvar från originalraden. 
 
 #### Deadline för inlämning är Söndag vecka 4 på Schoolsoft!
+### Lösningen finns nu upplagd [*här*](https://github.com/JaoK/TE16D-PRR01-VT-2018/blob/master/v3/assignments/whatdoesthefoxsay/soulution/whatdoesthefoxsay.java "lösning")!
 
 - **Tips**:
 	-  Använd en ArrayList för att lagra alla ord.

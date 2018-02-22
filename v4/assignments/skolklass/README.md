@@ -21,7 +21,6 @@ med namn på elever som läses in rad för rad.
 ### A
 - Du ska ha en till class som heter *Elev* och vars syfte är att lagra information om en skolelev.
   -  Minimumkrav är att en *Elev* ska ha enbart ett förnamn och minst ett efternamn.
-- Din *Skolklass* ska skapas med samma formattering som i filen  
-[**te16d.txt**](https://github.com/JaoK/TE16D-PRR01-VT-2018/blob/master/v4/assignments/skolklass/te16d.txt "te16d").
+- Din *Skolklass* ska skapas med samma formattering som i filen [**te16d.txt**](https://github.com/JaoK/TE16D-PRR01-VT-2018/blob/master/v4/assignments/skolklass/te16d.txt "te16d").
 - *Skolklass* ska då isället för att innehålla namnrepresentationer i from av strängar, innehålla objekt av typen *Elev*.
 - Det ska fortfarande gå att göra alla tidigare nämnda kriterier, bara att *Skolklass* innehåller *Elev*er istället för strängar.
