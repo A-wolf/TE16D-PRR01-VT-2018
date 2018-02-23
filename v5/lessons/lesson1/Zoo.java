@@ -5,8 +5,8 @@ import java.util.Random;
 
 public class Zoo {
 
-	public ArrayList<Animal> animals = new ArrayList<Animal>();
-
+	public ArrayList<Animal> animals = new ArrayList<Animal>();	
+	
 	public Zoo() {
 
 		// Generate 6 random numbers between 1-10:
