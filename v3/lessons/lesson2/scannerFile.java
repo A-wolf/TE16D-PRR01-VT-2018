@@ -17,7 +17,7 @@ public class scannerFile {
 	public static void main(String[] args) throws FileNotFoundException {
 
 		// 1
-		final String PATH = "v3/lessons/readfile/";
+		final String PATH = "v3/lessons/lesson2/";
 		Scanner fileReader = new Scanner(new File(PATH + "exampleFile.txt"));
 
 		// 2
