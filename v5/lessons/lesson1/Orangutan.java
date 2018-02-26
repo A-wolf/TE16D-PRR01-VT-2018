@@ -1,4 +1,4 @@
-package lessons.zoo;
+package lessons.lesson1;
 
 public class Orangutan extends Animal {
 

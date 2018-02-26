@@ -1,4 +1,4 @@
-package lessons.singleton;
+package lessons.lesson1;
 
 public class MySingleton {
 

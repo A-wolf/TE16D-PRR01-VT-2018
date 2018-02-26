@@ -1,4 +1,4 @@
-package lessons.zoo;
+package lessons.lesson1;
 
 import java.util.ArrayList;
 import java.util.Random;
